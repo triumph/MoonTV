@@ -31,6 +31,10 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
+    "ikun": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "iKun资源"
+    },
     "wwzy": {
       "api": "https://api.wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
